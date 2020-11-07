@@ -31,16 +31,12 @@
 <br />
 <br />
 
----
-
-### GitHub Stats
-
-![Daniel Roelfs's github stats](https://github-readme-stats.vercel.app/api?username=danielroelfs&show_icons=true)
-
 <details>
-  <summary>✨ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
+  <summary>✨ GitHub Stats</summary>
+
+  <br />
+
+  ![Daniel Roelfs's github stats](https://github-readme-stats.vercel.app/api?username=danielroelfs&show_icons=true)
 
 </details>
 
