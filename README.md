@@ -12,7 +12,7 @@
 
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/r/r.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
-<img align="left" alt="Python" width="26px" src="hhttps://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
 <img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
