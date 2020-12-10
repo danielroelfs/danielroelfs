@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dthroelfs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%dthroelfs&screen_name=dthroelfs)
 
 - 📕 Here the Intro to Statistics in R for NORMENT employees book I wrote: [Introduction to Basic Statistics in R][rbook]!
-- 🎲 Here's the repository for the Open Science Escape Room we used at NORMENT: [Introduction to Basic Statistics in R][osescaperoom]!
+- 🎲 Here's the repository for the Open Science Escape Room we used at NORMENT: [Virtual Open Science Escape Room][osescaperoom]!
 - 🌱 Currently learning: Python, ML, multivariate statisitcs
 - 🌈 My pronouns: He/His
 
