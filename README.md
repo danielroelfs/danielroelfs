@@ -5,8 +5,8 @@
 
 - 📕 Here the Intro to Statistics in R for NORMENT employees book I wrote: [Introduction to Basic Statistics in R][rbook]!
 - 🎲 Here's the repository for the Open Science Escape Room we used at NORMENT: [Virtual Open Science Escape Room][osescaperoom]!
-- 🌱 Currently learning: Python, ML, multivariate statisitcs
-- 🌈 My pronouns: He/His
+- 🌱 Currently learning: Python, ML, multivariate statistics
+- 🌈 He/His
 
 ### Languages and Tools:
 
@@ -14,8 +14,8 @@
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
+<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/markdown/markdown.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
