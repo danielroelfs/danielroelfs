@@ -1,8 +1,11 @@
 ### Hi, I'm Daniel 👋
 
-[![Website](https://img.shields.io/website?label=danielroelfs.com&style=for-the-badge&url=https%3A%2F%2Fdanielroelfs.com)](https://danielroelfs.com)
+[![danielroelfs.com](https://img.shields.io/website?label=danielroelfs.com&style=for-the-badge&url=https%3A%2F%2Fdanielroelfs.com)](https://danielroelfs.com)
+[![danielroelfs.app](https://img.shields.io/website?label=danielroelfs.app&style=for-the-badge&url=https%3A%2F%2Fdanielroelfs.app)](https://danielroelfs.app)
 
-- 📕Intro to Statistics in R guide for NORMENT employees: [Introduction to Basic Statistics in R][rbook]!
+- 🚗 Shiny app to estimate the cost of a car rental with Bilkollektivet: [Bilkollektivet Trip Cost Calculator](https://bilkollektivet.danielroelfs.app/)
+- 🎤 Slides for all public presentations I've given since 2019: [Presentations & Talks](https:/danielroelfs.github.io/slides)
+- 📕 Intro to Statistics in R guide for NORMENT employees: [Introduction to Basic Statistics in R][rbook]!
 - 🎲 Repository for the Virtual Open Science Escape Room: [Virtual Open Science Escape Room][osescaperoom]!
 - 💬 Love to talk about: imaging & genetics in neuroscience, data science and data viz, statistics, books, open science, photography
 - 🌈 He/His
